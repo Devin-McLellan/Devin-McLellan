@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love Italian food and am a huge sci-fi fan! \
     My favorite books are Dune, The Three-Body Problem, and The Hitchhiker's Guide to the Galaxy. \
     I also have a deep passion for physics and natural sciences.
+- Website: https://devin-mclellan.github.io/KevinPortfolio.com/
 
 <!---
 Devin-McLellan/Devin-McLellan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
