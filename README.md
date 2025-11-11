@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love Italian food and am a huge sci-fi fan! \
     My favorite books are Dune, The Three-Body Problem, and The Hitchhiker's Guide to the Galaxy. \
-    I also have a deep passion for physics and natural sciences.
+    I also have a deep passion for physics and mathematics.
 - Website: https://devin-mclellan.github.io/KevinPortfolio.com/
 
 <!---
